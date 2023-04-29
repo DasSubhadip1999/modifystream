@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "644d341ba577af05f8cecc8d",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "brown",
+    "name": "Denise Lawrence",
+    "gender": "female",
+    "company": "INFOTRIPS",
+    "email": "deniselawrence@infotrips.com",
+    "phone": "+1 (891) 530-2765"
+  },
+  {
+    "_id": "644d341b80abe44d861c765d",
+    "picture": "http://placehold.it/32x32",
+    "age": 33,
+    "eyeColor": "blue",
+    "name": "Thornton Jacobson",
+    "gender": "male",
+    "company": "TELEPARK",
+    "email": "thorntonjacobson@telepark.com",
+    "phone": "+1 (955) 547-2722"
+  },
+  {
+    "_id": "644d341bcca619c0bf26fd75",
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "eyeColor": "blue",
+    "name": "Jarvis Daugherty",
+    "gender": "male",
+    "company": "ARTWORLDS",
+    "email": "jarvisdaugherty@artworlds.com",
+    "phone": "+1 (943) 452-3804"
+  },
+  {
+    "_id": "644d341b21b395b38f61f1e3",
+    "picture": "http://placehold.it/32x32",
+    "age": 38,
+    "eyeColor": "green",
+    "name": "Tessa Henderson",
+    "gender": "female",
+    "company": "BEDDER",
+    "email": "tessahenderson@bedder.com",
+    "phone": "+1 (881) 559-3730"
+  },
+  {
+    "_id": "644d341bd1b4b8640bc2fa6f",
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "eyeColor": "green",
+    "name": "Hebert Rios",
+    "gender": "male",
+    "company": "REPETWIRE",
+    "email": "hebertrios@repetwire.com",
+    "phone": "+1 (888) 458-3664"
+  }
+]
